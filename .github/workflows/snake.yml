@@ -20,8 +20,7 @@ jobs:
         with:
           python-version: '3.x'
 
-      # Instala as dependências
-      - run: pip install -r requirements.txt
+    
 
       # Gera a animação Snake
       - run: |
