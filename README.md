@@ -4,10 +4,10 @@
 - 🌱 Estudando Angular
 - 😄 Pronouns: ele/dele
 
-<div>
+<div style="display: flex; align-items: center;">
   <a href="https://github.com/Cr1sxx">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=cr1sxx&show_icons=true&theme=tokyonight&include_all_commits=true&<count_private=true"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr1sxx&layout-compact&langs_count-16&theme-tokyonight"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=cr1sxx&show_icons=true&theme=tokyonight&include_all_commits=true&<count_private=true"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr1sxx&layout-compact&langs_count-16&theme-tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
