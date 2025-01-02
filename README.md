@@ -16,7 +16,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Gif" src="https://media.tenor.com/7GyHsInT8uoAAAAM/naruto.gif"
+  <img align="right" alt="Gif" src="https://media1.tenor.com/m/W_ZzBrgFG3sAAAAC/oshi-no-ko.gif"
   </div>
 
   ##
