@@ -1,30 +1,26 @@
-## Olá! Bem vindo ao meu perfil
+# Olá! Bem vindo ao meu perfil
 
-- 🔭 Hoje curso análise e desenvolvimento de sistemas na Puc Minas
-- 🌱 Estudando Angular
-- 😄 Pronouns: ele/dele
+Sou Cristhian e curso Análise e Desenvolvimento de Sistemas. Domino C# e Python voltado para desenvolvimento de aplicações web e aplicativos mobile. Meu objetivo como programador é ser game dev e conseguir me consolidar dentro desse mercado, desenvolvendo projetos criativos e divertidos para os jogadores.
 
-<div style="display: flex; align-items: center;">
-  <a href="https://github.com/Cr1sxx">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=cr1sxx&show_icons=true&theme=tokyonight&include_all_commits=true&<count_private=true"/>
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr1sxx&layout-compact&langs_count-16&theme-tokyonight"/>
-</div>
+### LINGUAGENS
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Gif" src="https://media1.tenor.com/m/W_ZzBrgFG3sAAAAC/oshi-no-ko.gif"
-  </div>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AstroPy](https://img.shields.io/badge/AstroPy-0C55A5?style=for-the-badge&logo=python&logoColor=white)
+![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F50?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-0089D6?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Game Maker](https://img.shields.io/badge/Game_Maker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
 
-  ##
+### EXPERIÊNCIA
 
-   
-<div> 
-  <a href = "mailto:cristhianbraga05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cristhian-dias-braga-a86303256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-  
+| Período | Empresa / Projeto | Função / Descrição | Status |
+| :--- | :--- | :--- | :---: |
+| **2024 - 2026** | **CANCODE** | Desenvolvimento de aplicações para controle monetário para uma igreja. | Concluído |
+| **2024 - 2026** | **Manutenção de Sistemas** | Manutenção, suporte e melhorias em sistemas corporativos para diversas empresas. | Concluído |
+| **2026 - Presente** | **ESPAÇOCARMO** | Desenvolvimento de aplicativo para agendamento de horários e serviços. | Em Andamento |
